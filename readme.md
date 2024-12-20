@@ -17,7 +17,7 @@
 - `git push` (Push to remote [origin] repository)
 
 # Git Ignore.
-
+- `use to prevent track specified files and folder.`
 
 # Git Behind the Scene.
 
