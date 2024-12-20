@@ -43,6 +43,10 @@
 # git tag
 
 # rebase and reflog
+- `normal merge hum main branch se rehke karte hai , rebase hum another branch mein rehke karte hai,normal merge mein hum data branch se master pe leke ate hain. lekin rebase mein hum data main se another branch mein leke ate hai.`
+
+- `reflog mein hum kisivi commit ke pichhe ja sakte hai ` 
+
 # getting start with github and open source
 
 # Thank You❤❤
