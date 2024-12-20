@@ -26,3 +26,11 @@
 
 
 # Branched in Git.
+- `git branch` (This command lists all the branches in the current repository.)
+- `git branch bug-fix` (This command creates a new branch called bug-fix.)
+- `git switch bug-fix` (This command switches to the bug-fix branch.)
+- `git log` ( This command shows the commit history for the current branch.)
+- `git switch master` (This command switches to the master branch.)
+- `git switch -c dark-mode` ( This command creates a new branch called dark-mode. the -c flag is used to create a new branch.)
+- `git checkout orange-mode` (This command switches to the orange-mode branch.)
+- `git merge bug-fix`()
