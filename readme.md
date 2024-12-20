@@ -15,3 +15,4 @@
 - `git log --oneline` (Show details of all commits in a single line)
 - `git push` (Push to remote [origin] repository)
 
+# Git Ignore.
