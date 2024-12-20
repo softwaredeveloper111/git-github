@@ -20,3 +20,10 @@
 
 
 # Git Behind the Scene.
+
+
+# git bydefault dont track a empty folder.but if we want to track a empty folder such that we add some content or file in
+# future , then by now you have to add .gitkeep file in that folder for that , git can track that folder.
+
+
+# Branched in Git.
