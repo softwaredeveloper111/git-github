@@ -49,4 +49,8 @@
 
 # getting start with github and open source
 
+
+# git clone
+- `git clone <url>`
+
 # Thank You❤❤
