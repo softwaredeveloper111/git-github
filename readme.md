@@ -38,7 +38,7 @@
 
 
 
-# diff stash tag
+# git diff 
 # git stash
 # git tag
 
