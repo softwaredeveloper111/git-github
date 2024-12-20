@@ -33,4 +33,5 @@
 - `git switch master` (This command switches to the master branch.)
 - `git switch -c dark-mode` ( This command creates a new branch called dark-mode. the -c flag is used to create a new branch.)
 - `git checkout orange-mode` (This command switches to the orange-mode branch.)
-- `git merge bug-fix`()
+- `git merge bug-fix`(merge bug-fix branch into main branch. here we get all the content from bug-fix branch into main brnach)
+-  `fast forward merge , not fast forward merge(Managing conflicts) both way are same`
