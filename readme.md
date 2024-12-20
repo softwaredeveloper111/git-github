@@ -6,6 +6,7 @@
 
 # Basic Terminology
 
+- `git version`
 - `git status`
 - `git init` (Creating a git repository)
 - `git add .` (Add all files at once in the git repository)
